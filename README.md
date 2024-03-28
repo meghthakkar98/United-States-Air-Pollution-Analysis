@@ -1,7 +1,7 @@
 # United States Air Pollution Analysis
 
 ## Description
-This project, conducted by the "Meaningful Patterns" team as part of the DSC 465 – Data Visualization Winter 2023 course, delves into the air pollution levels in the United States from 2000 to 2016. Utilizing a dataset from Kaggle, compiled by the United States Environmental Protection Agency (EPA), we analyze the fluctuations in air quality across various states, focusing on four major pollutants: carbon monoxide, sulfur dioxide, nitrogen dioxide, and ozone.
+This project delves into the air pollution levels in the United States from 2000 to 2016. Utilizing a dataset from Kaggle, compiled by the United States Environmental Protection Agency (EPA), we analyze the fluctuations in air quality across various states, focusing on four major pollutants: carbon monoxide, sulfur dioxide, nitrogen dioxide, and ozone.
 
 ## Dataset
 The dataset encompasses hourly, daily, and annual averages of the mentioned pollutants, recorded across over 4,000 monitoring stations nationwide. It covers 47 states, 133 counties, and 144 cities, comprising 1.7 million rows with 28 columns, including categorical, continuous, and geographical variables.
